@@ -27,7 +27,7 @@ body{
 }
 
 .escola-imagem{
-    width: 25%
+   width: 25%;
 }
 
 .escola{
@@ -48,7 +48,8 @@ body{
 }
 
 .estudante-imagem{
-    width: 120px;
+    width: 120px!important;
+    height: 120px!important;
 }
 .estudante-icone{
     width: 24px;
@@ -66,4 +67,8 @@ body{
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+     background-color: #24c931;
 }
