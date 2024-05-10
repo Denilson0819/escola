@@ -18,7 +18,7 @@ body{
 }
 
 .cabecalho-imagem{
-   width: 5%;
+   width: 10%;
 }
 
 .cabecalho-lista-item{
@@ -57,6 +57,7 @@ body{
 
 .estudante-div{
     text-align: center;
+    padding: 20px;
 }
 
 .estudante-titulo{
@@ -75,7 +76,7 @@ body{
 }
 
 .rodape-imagem{
-    height: 80px;
-    padding: 12px 0;
+    height: 50px;
+    padding: 25px 0;
     text-align: center;
 }
